@@ -1,8 +1,6 @@
 # John Robert Anthony P. Tabudlong  
 ### BSCS 3-A
 
-<br />
-
 ## About This Repository
 
 This repository contains all **CS-3246** activities under **Sir Cyril M. Olanolan**.  
