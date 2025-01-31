@@ -1,1 +1,1 @@
-Repository for Machine Learning Elective activities.
+# John Robert Anthony P. Tabudlong, BSCS 3-A
